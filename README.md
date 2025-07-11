@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋, I am Abhay</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Abhay Vishwakarma from India<br><br>- 🔭 I’m currently working on StreamXT<br>- 📚 I'm currently learning WebRTC<br>- ⚡ In my free time I study Electrical Engineering</p>
+<p align="left">- 🔭 I’m currently working on StreamXT<br>- 📚 I'm currently learning WebRTC<br>- ⚡ In my free time I study Electrical Engineering</p>
 
 ###
 
@@ -75,17 +75,6 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhaysoft-inc&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Abhaysoft-inc/count.svg?"  />
 </div>
