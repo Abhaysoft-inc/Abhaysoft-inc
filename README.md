@@ -74,9 +74,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 </div>
 
-###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Abhaysoft-inc/count.svg?"  />
-</div>
-
-###
